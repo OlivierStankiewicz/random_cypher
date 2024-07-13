@@ -1,0 +1,1 @@
+cipherManager = CipherManager(file.read().upper(), "ABCDEFGHIJKLMNOPQRSTUVWXYZ")
